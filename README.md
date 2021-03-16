@@ -202,7 +202,7 @@
 #### Create a file
 > `docker exec -d ubuntu_bash touch /tmp/execWorks`
 #### access terminal
-> `docker exec -it ubuntu_bash bash`
+> `docker exec -it ubuntu_bash bash`\
 > <a href="https://docs.docker.com/engine/reference/commandline/exec/"> More About docker exec</a>
 
 ### container volume
