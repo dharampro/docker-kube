@@ -127,3 +127,16 @@
 > `ARG <name>[=<default value>]`
 
     The ARG instruction defines a variable that users can pass at build-time to the builder with the docker build command using the --build-arg <varname>=<value> flag
+
+
+## Example Docker file
+
+    Create image by base image Oracle Linux 8.3 and copy python file fromlocaland run it.
+    
+> `ARG VERSION = 8.3`\
+> `FROM oraclelinux: VERSION`\
+> `LABEL maintainer="dharam@linux.com"`\
+> `RUN dnf install python3 -y`\
+> `RUN mkdir /mycode`\
+> `ADD hello.py /mycode/hello.py`\
+> `CMD ["python3", "/mycode/hello.py"]`
