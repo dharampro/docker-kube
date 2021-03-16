@@ -1,5 +1,3 @@
-# docker and kubernetes commands
-
 # Docker Commands
 
 ## Docker check version
