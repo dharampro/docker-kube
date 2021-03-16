@@ -3,4 +3,4 @@
 * <a href="https://www.youtube.com/watch?v=fqMOX6JJhGo"> FreecodecampDocker Masterclass [VIDEO] </a>
 * <a href="https://www.youtube.com/watch?v=aSATsLG59Zs&t=1432s">Docker and Kubernetes Recipes [VIDEO]</a>
 * <a href="https://www.youtube.com/watch?v=ZpbXSdzp_vo&t=644s"> 9 Steps to Awesome with Kubernetes [VIDEO]</a>
-* <a href="https://www.youtube.com/playlist?list=PLB2NsH6aVTpb1a9Ph2Ha3OV4ctDr6-TJm"> Docker and Kubernetes Deep Dive </a>
+* <a href="https://www.youtube.com/playlist?list=PLB2NsH6aVTpb1a9Ph2Ha3OV4ctDr6-TJm"> Docker and Kubernetes Deep Dive [PLAY_LIST]</a>
