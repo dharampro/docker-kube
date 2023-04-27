@@ -223,7 +223,7 @@
 ## Main commands
 > Usage:  docker [OPTIONS] COMMAND
 
-> Options:
+### Options:
 > 
 > 
 >       --config string      Location of client config files (default "/Users/a13401651/.docker")
@@ -249,7 +249,7 @@
 >  
 >  -v, --version            Print version information and quit
 >
-> Management Commands:
+### Management Commands:
 > 
 >  builder     Manage builds
 > 
@@ -297,7 +297,7 @@
 >  
 >  volume      Manage volumes
 
-> Commands:
+### Commands:
 >  
 >  attach      Attach local standard input, output, and error streams to a running container
 >
